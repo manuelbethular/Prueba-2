@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title> Prueba 1 index </title>
+    </head>
+    <body>
+        <h1> Index cabron </h1>
+        <h2> vamos mas agilididad. </h2>
+        <h3> hola titulo numero 3 </h3>
+        <h4> este es el cuarto </h4>
+        <h5> quinto </h5>
+        <h6> este es el final </h6>
+        <p> hoal buenas, esto es una preuba </p>
+        <span> "Arial black" </span>
+        <div> </div>
+        <a> href="https://vscode.dev/" </a>
+        <img> src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fconcepto.de%2Fprogramacion%2F&psig=AOvVaw3CBTCZcivhbeAxRGptTvyg&ust=1671909486630000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICP9bC6kPwCFQAAAAAdAAAAABAD" </img>
+        <ul> 
+            <li>
+                <span>elemento uno </span>
+            </li>
+            <li>
+                <p>prueba numero uno rey </p>
+            </li>
+            <li>
+                <span> tercer elemento </span>
+            </li>
+        </ul>
+    </body>
+</html>
